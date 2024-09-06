@@ -77,7 +77,7 @@ func gencode(platform string, accesscode uint32, cheatid uint32) string {
  }
  xor, _ := new(big.Int).SetString("14703658657559957748", 10)
  var salt, exp, mod, packed, encrypted, b big.Int
- if(cheatid == 9 || cheatid == 10) {
+ if cheatid == 9 || cheatid == 10 {
   salt.And(&arr[3], big.NewInt(0xFFFF))
   exp = arr[2]
   mod = arr[3]
