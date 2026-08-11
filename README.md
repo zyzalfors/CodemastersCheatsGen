@@ -1,6 +1,6 @@
 # Codemasters Cheats Generators
 
-These command-line tools generate cheat codes for Codemasters games Colin McRae Rally 3, 4, 2005, and TOCA Race Driver 1, 2, and 3, for a specified access code and platform (PC, PS2, PSP, Xbox).
+These command-line tools generate cheat codes for Codemasters games Colin McRae Rally 3, 4, 2005 and TOCA Race Driver 1, 2, 3, for a specified access code and platform (PC, PS2, PSP, Xbox).
 
 The C and Go source codes are translations of Python source code originally created by [CookiePLMonster/Silent](https://github.com/CookiePLMonster).
 
